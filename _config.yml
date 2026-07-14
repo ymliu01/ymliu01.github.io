@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "About me - Yumeng Liu（刘宇濛）"
+title                    : "Yumeng Liu（刘宇濛）"
 title_separator          : "-"
 name                     : &name "Yumeng Liu（刘宇濛）"
 description              : &description "Yumeng Liu's academic homepage: electronic design automation, design for testability, and 2.5D/3D chiplet systems."

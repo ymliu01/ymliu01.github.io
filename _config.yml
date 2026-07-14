@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Yumeng Liu | Academic Homepage"
+title                    : "About me - Yumeng Liu（刘宇濛）"
 title_separator          : "-"
-name                     : &name "Yumeng Liu"
+name                     : &name "Yumeng Liu（刘宇濛）"
 description              : &description "Yumeng Liu's academic homepage: electronic design automation, design for testability, and 2.5D/3D chiplet systems."
 url                      : "https://ymliu01.github.io" # TODO: replace ymliu01 before publishing
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -24,7 +24,7 @@ repository               : "ymliu01/ymliu01.github.io" # TODO: replace ymliu01 b
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Yumeng Liu"
+  name             : "Yumeng Liu（刘宇濛）"
   pronouns         : # example: "she/her"  
   bio              : "Incoming M.Eng. Student in Integrated Circuit Engineering"
   location         : "Wuxi, China"

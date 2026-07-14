@@ -34,4 +34,4 @@ Current Focus
 
 I am currently strengthening my foundations in C++, optimization, advanced-package physical design, and DFT. My near-term goal is to develop physically grounded and reproducible methods that connect package planning, power integrity, and testability.
 
-Please see [Research](/research/) for selected work and [CV](/cv/) for a detailed academic résumé.
+Please see [CV](/cv/) for a detailed academic résumé.

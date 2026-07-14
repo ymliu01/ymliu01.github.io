@@ -19,9 +19,10 @@ Education
 Research Interests
 ======
 
-- Electronic design automation for advanced packaging and chiplet systems
-- Power delivery and routing optimization
-- Test-access architectures for heterogeneous systems
+- DFT for advanced packaging
+- Chip security and reliability
+- EDA and optimization for 2.5D/3D integrated systems
+- Multi-physics-aware planning
 
 <!--
 

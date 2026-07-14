@@ -12,7 +12,7 @@ site_theme               : "air" # The available themes options are "default", "
 title                    : "Yumeng Liu（刘宇濛）"
 title_separator          : "-"
 name                     : &name "Yumeng Liu（刘宇濛）"
-description              : &description "Yumeng Liu's academic homepage: electronic design automation, design for testability, and 2.5D/3D chiplet systems."
+description              : &description "Yumeng Liu's academic homepage: DFT for advanced packaging, chip security and reliability, EDA for 2.5D/3D systems."
 url                      : "https://ymliu01.github.io" # TODO: replace ymliu01 before publishing
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

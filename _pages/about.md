@@ -9,13 +9,14 @@ redirect_from:
 
 I am an incoming M.Eng. student in **Integrated Circuit Engineering** at Southeast University, beginning in Fall 2026. I will join the E3DA Lab under Prof. Yarui Peng.
 
-My research interests include **electronic design automation (EDA)**, **design for testability (DFT)**, and **2.5D/3D chiplet systems**.
+My research interests include **design for testability (DFT)**, **chip security and reliability**, and **electronic design automation (EDA) for 2.5D/3D systems**.
 
 Research Interests
 ======
 
-- EDA for 2.5D/3D chiplet and advanced-package design
-- Power delivery and routing optimization
-- Test-access architectures for heterogeneous systems
+- DFT for advanced packaging
+- Chip security and reliability
+- EDA and optimization for 2.5D/3D integrated systems
+- Multi-physics-aware planning
 
 Please see [CV](/cv/) for more details.

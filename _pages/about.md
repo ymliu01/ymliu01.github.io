@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me - Yumeng Liu（刘宇濛）"
+title: "Yumeng Liu（刘宇濛）"
 author_profile: true
 redirect_from:
   - /about/

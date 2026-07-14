@@ -18,6 +18,8 @@ url                      : "https://ymliu01.github.io" # TODO: replace ymliu01 b
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ymliu01/ymliu01.github.io" # TODO: replace ymliu01 before publishing
 
+show_job_page              : false # 改为 true 时导航栏显示 Job CV 链接
+
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html

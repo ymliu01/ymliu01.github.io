@@ -22,6 +22,7 @@ Research Interests
 - Electronic design automation for advanced packaging and chiplet systems
 - Power delivery and routing optimization
 - Test-access architectures for heterogeneous systems
+
 <!--
 
 Research Experience
@@ -36,7 +37,9 @@ Research Experience
 *December 2025–February 2026*
 
 - Supported sensor-product testing, digital interface debugging, and calibration.
+
 -->
+
 Selected Projects
 ======
 

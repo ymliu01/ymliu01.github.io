@@ -44,10 +44,6 @@ Research Experience
 Selected Projects
 ======
 
-### Electro-Thermal-Aware Test Access Scheduling
-
-Model test tasks and access resources for IEEE 1838-based architectures; develop schedulers and experiment pipelines.
-
 ### FPGA-Based Design for Testability
 
 Designed scan chains, LFSR/MISR-based BIST, and fault injection in Verilog; verified on FPGA. Outstanding thesis.

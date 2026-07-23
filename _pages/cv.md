@@ -66,6 +66,6 @@ Skills
 ======
 
 - **Languages:** C/C++, Python, Verilog/SystemVerilog, Tcl
-- **Tools:** VCS, Verdi, Design Compiler, Modelism, Linux, Git
+- **Tools:** VCS, Verdi, Design Compiler, Modelism, Linux, PrimeTime
 
 Last updated: July 2026.
